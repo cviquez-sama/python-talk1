@@ -1,6 +1,18 @@
-# python-talk1
-import numpy print(numpy.version) numpy.random.randn()
+# Lets talk about Python   
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cviquez-sama/python-talk1.git/HEAD)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/cviquez-sama/python-talk1.git/HEAD
+### Use Python and Jupyter to graph Olympics results in Tokyo 2021
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cviquez-sama/python-talk1/3e6993f5da4f28ab64662a14c7cad31ee3719322)
+
+## Dependencies
+pandas
+matplotlib
+scipy
+seaborn
+
+## Data Set source
+[Kaggle] (https://www.kaggle.com/stefanzivanov/olympic-games-2021-medals)
+
+## Some references
+[JupyterNotebooks] (https://medium.com/@ODSC/why-you-should-be-using-jupyter-notebooks-ea2e568c59f2)
+[CloudJupyterNotebooks] (https://www.dataschool.io/cloud-services-for-jupyter-notebook/)
