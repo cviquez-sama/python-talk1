@@ -15,6 +15,6 @@ In this example we are going to graph data from olympics results in Tokyo 2021
 [Kaggle](https://www.kaggle.com/stefanzivanov/olympic-games-2021-medals)
 
 ## Some references
-[Jupyter Notebooks](https://medium.com/@ODSC/why-you-should-be-using-jupyter-notebooks-ea2e568c59f2)
-[Cloud Jupyter Notebooks](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)
-[Binder](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md)
+- [Jupyter Notebooks](https://medium.com/@ODSC/why-you-should-be-using-jupyter-notebooks-ea2e568c59f2)
+- [Cloud Jupyter Notebooks](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)
+- [Binder](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md)
