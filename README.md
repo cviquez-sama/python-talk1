@@ -1,8 +1,8 @@
 # Lets talk about Python   
 Python ia very powerful and versatile tool. Lets go into an small example of how to use Binder to easily run your Jupyter notebook in the cloud.
-In this example we are going to graph dta from olympics results in Tokyo 2021
+In this example we are going to graph data from olympics results in Tokyo 2021
 
-# Take a kick look on this notebook
+# Take a quick look on this notebook
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cviquez-sama/python-talk1/3e6993f5da4f28ab64662a14c7cad31ee3719322)
 
 ## Dependencies
