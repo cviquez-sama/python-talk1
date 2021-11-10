@@ -16,3 +16,4 @@ seaborn
 ## Some references
 [JupyterNotebooks] (https://medium.com/@ODSC/why-you-should-be-using-jupyter-notebooks-ea2e568c59f2)
 [CloudJupyterNotebooks] (https://www.dataschool.io/cloud-services-for-jupyter-notebook/)
+[Binder] (https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md)
